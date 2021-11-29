@@ -42,9 +42,9 @@ For more details, see [My CV](https://cv.kingtous.cn)
 - [Remote Unlock](https://rfu.czqu.ren), **1w+** downloaded.
   - can be installed via [CoolApk](https://www.coolapk.com/apk/254589), Huawei AppGallery, Tencent AppGallery, etc.
   - news from media
-    - [差评公众号：用手机指纹就能解锁电脑，这个App也太骚了。。。](https://mp.weixin.qq.com/s?src=11&timestamp=1638161659&ver=3465&signature=OXa1wHUV*ZAGuYSxg8JvJi9gyA2gsXgci679eMNQ3LJBkRCADQWC3inXVNuWQjobiwz6TB4NJQ8wmn7it4vE4nRexNljsxbYkK760ruMEroL*yahzBB4fB*TrL*IcRNs&new=1) 
+    - [Wechat ChaPing: Using mobile phone fingerprint can unlock the computer, awesome!](https://mp.weixin.qq.com/s?src=11&timestamp=1638161659&ver=3465&signature=OXa1wHUV*ZAGuYSxg8JvJi9gyA2gsXgci679eMNQ3LJBkRCADQWC3inXVNuWQjobiwz6TB4NJQ8wmn7it4vE4nRexNljsxbYkK760ruMEroL*yahzBB4fB*TrL*IcRNs&new=1) 
     - [Baidu Wiki](https://baike.baidu.com/item/%E8%BF%9C%E7%A8%8B%E8%A7%A3%E9%94%81/50100731?fr=aladdin)
-    - [其他：骚操作，手机指纹远程解锁电脑，还可以传输文件和开关机](https://mp.weixin.qq.com/s?src=11&timestamp=1638161659&ver=3465&signature=OXa1wHUV*ZAGuYSxg8JvJi9gyA2gsXgci679eMNQ3LJBkRCADQWC3inXVNuWQjobiwz6TB4NJQ8wmn7it4vE4nRexNljsxbYkK760ruMEroL*yahzBB4fB*TrL*IcRNs&new=1)
+    - [Mobile phone fingerprint, remote unlocking of the computer, file transfer and switching on and off!!](https://mp.weixin.qq.com/s?src=11&timestamp=1638161659&ver=3465&signature=OXa1wHUV*ZAGuYSxg8JvJi9gyA2gsXgci679eMNQ3LJBkRCADQWC3inXVNuWQjobiwz6TB4NJQ8wmn7it4vE4nRexNljsxbYkK760ruMEroL*yahzBB4fB*TrL*IcRNs&new=1)
    - Flutter version avaliable soon (on Google Play Store).
     
 
