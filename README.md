@@ -8,7 +8,7 @@
 Hi, Greetings from Kingtous! I'm Kingtous, a master student majoring in computer science and technology of Huazhong University of science and technology(HUST).
 
 
-Studied in Northeast University as an undergraduate and is now exempted from studying in Huazhong University of science and technology for a master's degree.
+Studied in Northeastern University as an undergraduate and is now exempted from studying in Huazhong University of science and technology for a master's degree.
 Lets Fighting for the Top A!
 
 
