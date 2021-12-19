@@ -1,6 +1,5 @@
 ### Hi, I'm Kingtous👋
 
-
 ![My Profile](https://img.kingtous.cn/247205aa-163e-4725-8658-8575eafa1886.png)
 
 ## My Intro
@@ -11,8 +10,9 @@ Hi, Greetings from Kingtous! I'm Kingtous, a master student majoring in computer
 Studied in Northeastern University as an undergraduate and is now exempted from studying in Huazhong University of science and technology for a master's degree.
 Lets Fighting for the Top A!
 
-
 For more details, see [My CV](https://cv.kingtous.cn)
+
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=kingtous.kingtous" /> </p>
 
 ## My Strength
 
