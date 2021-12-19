@@ -46,7 +46,10 @@ For more details, see [My CV](https://cv.kingtous.cn)
     - [Baidu Wiki](https://baike.baidu.com/item/%E8%BF%9C%E7%A8%8B%E8%A7%A3%E9%94%81/50100731?fr=aladdin)
     - [Mobile phone fingerprint, remote unlocking of the computer, file transfer and switching on and off!!](https://mp.weixin.qq.com/s?src=11&timestamp=1638161659&ver=3465&signature=OXa1wHUV*ZAGuYSxg8JvJi9gyA2gsXgci679eMNQ3LJBkRCADQWC3inXVNuWQjobiwz6TB4NJQ8wmn7it4vE4nRexNljsxbYkK760ruMEroL*yahzBB4fB*TrL*IcRNs&new=1)
    - Flutter version avaliable soon (on Google Play Store).
-    
+
+## My Blog
+
+- [Kingtous' Blog](https://kingtous.cn): ![](https://github.com/Kingtous/react-learning/actions/workflows/deploy.yml/badge.svg) <img src="https://img.foreverblog.cn/logo_en_default.png" width=100/>
 
 ## My Popular Repo
 
@@ -58,7 +61,7 @@ For more details, see [My CV](https://cv.kingtous.cn)
 - [Service Monitor (DTK)](https://github.com/Kingtous/service-monitor-dtk)
 - [FlutterSmsSyncWorker](https://github.com/Kingtous/FlutterSmsSyncWorker)
 - [JtOS (Linux Kernel with customed FS, CLI)](https://github.com/Kingtous/JtOS)
-- [Kingtous' Blog](https://kingtous.cn): ![](https://github.com/Kingtous/react-learning/actions/workflows/deploy.yml/badge.svg)
+
 - ...
 
 ## My Reward
