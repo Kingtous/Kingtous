@@ -74,3 +74,4 @@ For more details, see [My CV](https://cv.kingtous.cn)
 - In June 2020, thehonorary title of **"Jiqing star"** at NEUQ
 - In August 2020, the national college student intelligent car competition (**Baidu deep learning group**)  the **FIRST** prize of the national level
 - In December 2020, the **national scholarship** at NEUQ
+- In December 2021, the **SPECIAL first price scholarship** at HUST
