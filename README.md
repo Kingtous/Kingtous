@@ -39,13 +39,13 @@ For more details, see [My CV](https://cv.kingtous.cn)
 
 ## My Popular Apps
 
-- [Remote Unlock](https://rfu.czqu.ren), **1w+** downloaded.
+- [Remote Unlock](https://rfu.czqu.ren), **2w+** downloaded.
   - can be installed via [CoolApk](https://www.coolapk.com/apk/254589), Huawei AppGallery, Tencent AppGallery, etc.
   - news from media
     - [Wechat ChaPing: Using mobile phone fingerprint can unlock the computer, awesome!](https://mp.weixin.qq.com/s?src=11&timestamp=1638161659&ver=3465&signature=OXa1wHUV*ZAGuYSxg8JvJi9gyA2gsXgci679eMNQ3LJBkRCADQWC3inXVNuWQjobiwz6TB4NJQ8wmn7it4vE4nRexNljsxbYkK760ruMEroL*yahzBB4fB*TrL*IcRNs&new=1) 
     - [Baidu Wiki](https://baike.baidu.com/item/%E8%BF%9C%E7%A8%8B%E8%A7%A3%E9%94%81/50100731?fr=aladdin)
     - [Mobile phone fingerprint, remote unlocking of the computer, file transfer and switching on and off!!](https://mp.weixin.qq.com/s?src=11&timestamp=1638161659&ver=3465&signature=OXa1wHUV*ZAGuYSxg8JvJi9gyA2gsXgci679eMNQ3LJBkRCADQWC3inXVNuWQjobiwz6TB4NJQ8wmn7it4vE4nRexNljsxbYkK760ruMEroL*yahzBB4fB*TrL*IcRNs&new=1)
-   - Flutter version avaliable soon (on Google Play Store).
+   - Flutter version also avaliable (on [Google Play Store](https://play.google.com/store/apps/details?id=com.kingtous.remote_unlock_control)).
 
 ## My Blog
 
