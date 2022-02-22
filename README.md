@@ -46,7 +46,8 @@ For more details, see [My CV](https://cv.kingtous.cn)
     - [Wechat ChaPing: Using mobile phone fingerprint can unlock the computer, awesome!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwmnTjeBYgdRZ6tJ6Wt0gG1ev_kHWr9Z3VqXa8Fplpd9ut5phjYpvd__GC4JuPgNjyzvAljAh1CTkfLwYvlssYKoqv0oMGSAK0BmBzDQVzhHOeAkRhwpiwalXECwcENXHZyXvNxG4BVa7oeGSo-ns-OQqyUml65TTo1MHiu3hvHVKf0X9AQ2u3EoO3oBjVq6Miv_PDoUoDaq9W4sQsb8epthlgeRt7bSzA..&type=2&query=%E8%BF%9C%E7%A8%8B%E8%A7%A3%E9%94%81%20app&token=6D09A8FCBC4B659E3633EEA47B5A3B6536CB6ECB62143EA8&k=37&h=e)
     - [Mobile phone fingerprint, remote unlocking of the computer, file transfer and switching on and off!!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwmnTjeBYgdRKbvuxuhdkNJev_kHWr9Z3VqXa8Fplpd9oKOlyiD0bdpV3kHPx5zDUsfuusUD0p1QSlQhJSnu92HChoLiF_E3JY-E_ebDd7F8pLHM-FZp3dN6yVM-myVm5k2NCWi9j1FpwQPSDL0CoHCVQLjgKxN9g2yTXWy8KcZeP1qtnPgXnllMp0dB3yuzz-__pgc-5ooamOn3Po2Nz8MO8fIRwtipOg..&type=2&query=%E8%BF%9C%E7%A8%8B%E8%A7%A3%E9%94%81&token=empty&k=67&h=a)
     - [Remote Unlock | Using mobile phone to unlock your computer](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwmnTjeBYgdRKbvuxuhdkNJev_kHWr9Z3VqXa8Fplpd9SI7Jvi7cKFM5U43PLP1jZjKjbLWdRa__20kaklg5K-s8ZuqLDxAxi9obQmVTod7np94SoU82byv2u-JDjEazTr3gU1e-6DUX85-EkbgE0NNugtZ2GlBZMiwBp7oDlSi34-D7qosUOs6wbG_nOHCLECA4n4Jlw-nBRUwEzKHIgNRr1dbZWbKUeQ..&type=2&query=%E8%BF%9C%E7%A8%8B%E8%A7%A3%E9%94%81&token=empty&k=12&h=w)
-    - Flutter version also avaliable (on [Google Play Store](https://play.google.com/store/apps/details?id=com.kingtous.remote_unlock_control)).
+    - more and more...
+  - Flutter version also avaliable (on [Google Play Store](https://play.google.com/store/apps/details?id=com.kingtous.remote_unlock_control)).
 
 ## My Blog
 
