@@ -17,7 +17,7 @@ For more details, see [My CV](https://cv.kingtous.cn)
 ## My Strength
 
 - Researcher in Computer Science for Topic "Cyber Physical System (CPS)".
-- Developer for Android / Flutter / Serverless Full Stack Apps. Also half of fronted developer using React.
+- Developer for Android / Flutter / Serverless Full Stack Apps. Also half of fronted developer using React. Beginner of Rust Development.
 
 ## My Career
 
