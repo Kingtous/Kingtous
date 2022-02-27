@@ -55,11 +55,12 @@ For more details, see [My CV](https://cv.kingtous.cn)
 
 ## My Popular Repo
 
-- [ompTG (Docker & PHP)](https://github.com/Kingtous/OmpTG)
 - [WebC Compiler Base On LLVM](https://github.com/Kingtous/WebC-llvm-compiler)：![](https://github.com/Kingtous/Sysy2020-llvm-compiler/actions/workflows/cmake.yml/badge.svg)
+- [ompTG (Docker+PHP+Python+Shell)](https://github.com/Kingtous/OmpTG)
 - CodeRunnerOnline
   - Fronted: [CodeRunningWeb](https://github.com/Kingtous/Flutter-CodeRunningWeb)
   - Backend: [CodeRunningServer](https://github.com/Kingtous/Flask-CodeRunningServer)
+- [RustPlayer](https://github.com/Kingtous/RustPlayer)
 - [Service Monitor (DTK)](https://github.com/Kingtous/service-monitor-dtk)
 - [FlutterSmsSyncWorker](https://github.com/Kingtous/FlutterSmsSyncWorker)
 - [JtOS (Linux Kernel with customed FS, CLI)](https://github.com/Kingtous/JtOS)
