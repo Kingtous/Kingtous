@@ -19,6 +19,8 @@ For more details, see [My CV](https://cv.kingtous.cn)
 - Researcher in Computer Science for Topic "Cyber Physical System (CPS)".
 - Developer for Android / Flutter / Serverless Full Stack Apps. Also half of fronted developer using React. Beginner of Rust Development.
 
+[![Kingtous's github stats](https://github-readme-stats.vercel.app/api?username=Kingtous&theme=blue-green)](https://github.com/Kingtous/github-readme-stats)
+
 ## My Career
 
 - [2021.9-now] M.E. in Huazhong University of Science and Technology (HUST).
@@ -56,11 +58,11 @@ For more details, see [My CV](https://cv.kingtous.cn)
 ## My Popular Repo
 
 - [WebC Compiler Base On LLVM](https://github.com/Kingtous/WebC-llvm-compiler)：![](https://github.com/Kingtous/Sysy2020-llvm-compiler/actions/workflows/cmake.yml/badge.svg)
-- [ompTG (Docker+PHP+Python+Shell)](https://github.com/Kingtous/OmpTG)
 - CodeRunnerOnline
   - Fronted: [CodeRunningWeb](https://github.com/Kingtous/Flutter-CodeRunningWeb)
   - Backend: [CodeRunningServer](https://github.com/Kingtous/Flask-CodeRunningServer)
-- [RustPlayer](https://github.com/Kingtous/RustPlayer)
+- [RustPlayer - An local audio player using Rust and completely terminal gui](https://github.com/Kingtous/RustPlayer) [![GitHub stars](https://img.shields.io/github/stars/Kingtous/RustPlayer.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Kingtous/RustPlayer/stargazers/)
+- [ompTG (Docker+PHP+Python+Shell)](https://github.com/Kingtous/OmpTG)
 - [Service Monitor (DTK)](https://github.com/Kingtous/service-monitor-dtk)
 - [FlutterSmsSyncWorker](https://github.com/Kingtous/FlutterSmsSyncWorker)
 - [JtOS (Linux Kernel with customed FS, CLI)](https://github.com/Kingtous/JtOS)
