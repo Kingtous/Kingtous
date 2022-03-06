@@ -25,7 +25,7 @@ For more details, see [My CV](https://cv.kingtous.cn)
 
 - [2021.9-now] M.E. in Huazhong University of Science and Technology (HUST).
   - Supervisor: Quan Zhou
-- [2020.11-2021.4] Android MicroApp Framework Developer at ByteDance Corp. Also responsible for Android client of real-time audio translation project(Huo Shan Translation Engine) on Android.
+- [2020.11-2021.4] Android MicroApp Framework Developer at [ByteDance Corp](https://www.bytedance.com/). Also responsible for Android client of real-time audio translation project(Huo Shan Translation Engine) on Android.
 - [2017.9-2021.6] B.E. in NorthEastern University at Qinhuangdao (NEUQ).
   - Supervisor: YanXia Lu
 
