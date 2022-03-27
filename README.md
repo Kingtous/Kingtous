@@ -31,8 +31,14 @@ For more details, see [My CV](https://cv.kingtous.cn)
 
 ## My Paper
 
-- [JSA: ompTG: From OpenMP Programs to Task Graphs](https://github.com/Kingtous/OmpTG)：comming soon!
+- Jinghao Sun, **Tao Jin** et.al:**《ompTG: From OpenMP Programs to Task Graphs》** (the second and also the corresponding author)
+  - 《Journal of System Architecture》,CCF B, doi: [10.1016/j.sysarc.2022.102470](https://doi.org/10.1016/j.sysarc.2022.102470)
+  - [ompTG: open source tool for OpenMP programs to task graphs.](https://github.com/Kingtous/OmpTG)
+  - [ompTG online for Docker](https://registry.hub.docker.com/r/kingtous/omptg-online)
   - [Github: BOTS Benchmark Result](https://github.com/Kingtous/Bots_Task_Result)
+
+### Abstract
+  Real-time systems are shifting them from single-core to multi-core processors. Software must be parallelized to fully utilize the computation power of multi-core architectures. OpenMP is a promising framework to develop parallel real-time software on multi-cores. OpenMP programs keep certain similarity to real-time task graph models, and this motivates much recent work done on real-time scheduling of OpenMP tasks. However, these studies conduct evaluations with randomly generated task graphs, which cannot well capture the structure features of realistic OpenMP programs. To fill the gap between theoretical real-time scheduling research and the OpenMP software reality, we develop an ompTG tool for transforming OpenMP programs into parallel task graphs. ompTG prepares a way to exhibit OpenMP such that the researchers in real-time community can easily understand: An OpenMP system consists of a set of tasks. There are interdependencies among tasks, and each task has an intra structure of the control-flow graph. Besides the topology of OpenMP tasks, we also provide a safe WCET for each vertex of OpenMP task graphs by using static WCET analysis techniques. Moreover, we derive the flow facts, e.g, infeasible path and loop bounds for the task graph, which is necessary information for real-time scheduling and analysis. As a case study, we collect 12 OpenMP programs from the BOTS benchmark, and transform them into task graphs, demonstrating the usage of ompTG.
 
 ## My Main Contribution
 
