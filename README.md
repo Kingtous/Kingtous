@@ -42,6 +42,9 @@ For more details, see [My CV](https://cv.kingtous.cn)
 
 ## My Contributions in Open Source Communities
 
+- [Linux Kernel: add a quirk to disable namespace identifiers & disable namespace identifiers for the MAXIO MAP1002/1202](http://lists.infradead.org/pipermail/linux-nvme/2022-April/031285.html) 130k stars
+  - [nvme: add a quirk to disable namespace identifiers](https://github.com/torvalds/linux/commit/00ff400e6deee00f7b15e200205b2708b63b8cf6)
+  - [nvme-pci: disable namespace identifiers for the MAXIO MAP1002/1202]()
 - [Parse Server](https://github.com/parse-community/parse-server) 19.4k stars
   - PR: [#5973: fix: combined and query with relational query condition returns incorrect results](https://github.com/parse-community/parse-server/pull/7593)
 - [FClash: A better Linux oriented proxy based on Clash](https://github.com/Kingtous/Fclash)
@@ -89,3 +92,6 @@ For more details, see [My CV](https://cv.kingtous.cn)
 - In August 2020, the national college student intelligent car competition (**Baidu deep learning group**)  the **FIRST** prize of the national level
 - In December 2020, the **national scholarship** at NEUQ
 - In December 2021, the **SPECIAL first price scholarship** at HUST
+- In Feb 2022, the third price of **HuaweiCup** Chinese postgraduate mathematical modeling competition at HUST.
+- In March 2022, the second price of **MathorCup** Chinese postgraduate mathematical modeling competition at HUST.
+- In April 2022, the second price of **Huawei** software elite challenge (Wuchang area) at HUST. Grade: **5**/486
