@@ -44,6 +44,8 @@ For more details, see [My CV](https://cv.kingtous.cn)
 
 - [Parse Server](https://github.com/parse-community/parse-server) 19.4k stars
   - PR: [#5973: fix: combined and query with relational query condition returns incorrect results](https://github.com/parse-community/parse-server/pull/7593)
+- [FClash: A better Linux oriented proxy based on Clash]
+  - Avaliable on [ArchLinux AUR repo](https://aur.archlinux.org/packages/fclash), (Deepin/UOS Spark Store)[http://spark-app.store/], Ubuntu Snap Store. Arch/Debian ditros supported.
 - [Service Monitor for DTK](https://github.com/Kingtous/service-monitor-dtk)
   - An GET/POST API monitor built by Qt/DTK.
 
