@@ -17,7 +17,9 @@ For more details, see [My CV](https://cv.kingtous.cn)
 ## My Strength
 
 - Researcher in Computer Science for Topic "Cyber Physical System (CPS)".
+- Contributor & Developer of one of the most famous and popular open-source remote desktop software "[rustdesk](https://github.com/rustdesk/rustdesk)".
 - Developer for Android / Flutter / Serverless Full Stack Apps. Also half of fronted developer using React. Beginner of Rust Development.
+
 
 [![Kingtous's github stats](https://github-readme-stats.vercel.app/api?username=Kingtous&theme=blue-green)](https://github.com/Kingtous/github-readme-stats)
 
