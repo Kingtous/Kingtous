@@ -17,7 +17,7 @@ For more details, see [My CV](https://cv.kingtous.cn)
 ## My Strength
 
 - Researcher in Computer Science for Topic "Cyber Physical System (CPS)".
-- Contributor & Developer of one of the most famous and popular open-source remote desktop software "[rustdesk](https://github.com/rustdesk/rustdesk)".
+- Contributor & Developer of one of the most famous and popular open-source remote desktop software <img src="https://github.com/rustdesk/rustdesk/blob/master/logo.svg" style="width: 20px"/> [rustdesk](https://github.com/rustdesk/rustdesk).
 - Developer for Android / Flutter / Serverless Full Stack Apps. Also half of fronted developer using React. Beginner of Rust Development.
 
 
@@ -44,6 +44,8 @@ For more details, see [My CV](https://cv.kingtous.cn)
 
 ## My Contributions in Open Source Communities
 
+- [rustdesk: Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.](https://github.com/rustdesk/rustdesk)
+  - ...(check repo for details)
 - [Linux Kernel: add a quirk to disable namespace identifiers & disable namespace identifiers for the MAXIO MAP1002/1202](http://lists.infradead.org/pipermail/linux-nvme/2022-April/031285.html) 130k stars
   - [nvme: add a quirk to disable namespace identifiers](https://github.com/torvalds/linux/commit/00ff400e6deee00f7b15e200205b2708b63b8cf6)
   - [nvme-pci: disable namespace identifiers for the MAXIO MAP1002/1202]()
